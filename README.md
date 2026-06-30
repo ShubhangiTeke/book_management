@@ -1,6 +1,6 @@
 # 📚 Book Management System (Java)
 
-## 📖 About the Project
+##  About the Project
 
 This is a console-based Book Management System developed in Java as part of my Object-Oriented Programming (OOP) learning and college assignment.
 
@@ -8,7 +8,7 @@ The project allows users to manage book records through a menu-driven interface 
 
 ---
 
-## ✨ Features
+##  Features
 
 - 📖 Add a new book
 - 🔍 Search a book by Book ID
@@ -17,14 +17,14 @@ The project allows users to manage book records through a menu-driven interface 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Java
 - Object-Oriented Programming (OOP)
 
 ---
 
-## 📚 Concepts Practiced
+##  Concepts Practiced
 
 - Classes and Objects
 - Constructors
@@ -35,7 +35,7 @@ The project allows users to manage book records through a menu-driven interface 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Program.java
@@ -47,7 +47,7 @@ Program.java
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repository.
 2. Open the project in Eclipse, IntelliJ IDEA, or any Java IDE.
@@ -56,7 +56,7 @@ Program.java
 
 ---
 
-## 🎯 Learning Goal
+## Learning Goal
 
 This project was created to strengthen my understanding of Java fundamentals and Object-Oriented Programming. I plan to continue improving this project as I learn more advanced Java concepts.
 
@@ -71,7 +71,7 @@ Future improvements may include:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Shubhangi Teke**
 
